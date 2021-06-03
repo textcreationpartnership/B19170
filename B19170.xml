@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation to prorogue the assembly of the Lords and Commons of Parliament at Oxford, untill the ninth day of November next.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19170</idno><idno type="EEBO-CITATION">99884057</idno>
+  <idno type="VID">188239</idno>
+  <idno type="EEBO-PROQUEST">2240887010</idno>
+  
+            <idno type="STC">Wing C2706</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[85]</idno>
+            <idno type="STC">ESTC R213145</idno>
+            <idno type="PROQUEST">ocm99884057</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884057e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188239)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[85])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation to prorogue the assembly of the Lords and Commons of Parliament at Oxford, untill the ninth day of November next.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649. aut</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>[1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date from Wing.</note>
+                  <note>Arms 41; Steele notation: Reasons  Our  September,.</note>
+                  <note>Dated at end: Given at our court at Excester, the twenty first day of September, in the twentieth yeare of our reigne. 1644.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188239:1"/>
+            <head>
+               <figure>
+                  <figDesc>crowned blazon or coat of arms of the British royal family</figDesc>
+                  <head>
+                     <q>HONI SOIT QVI MAL Y PENSE</q>
+                  </head>
+                  <p>C. R.</p>
+               </figure> BY THE KING. ¶ A Proclamation to Prorogue the Assembly of the Lords and Commons of Parliament at <hi>OXFORD,</hi> untill the ninth day of <hi>November</hi> next.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by Our Proclamation bearing date the 22<seg rend="sup">th</seg> day of <hi>December</hi> last, for the Reasons therein Expressed, We Assembled, at Our City of <hi>Oxford</hi> the 22. day of <hi>January</hi> last, the Mem<g ref="char:EOLhyphen"/>bers of both Our Houses of Parliament, which Assembly was, by Our Consent, Adjourned, untill the 8<seg rend="sup">th</seg> day of <hi>October</hi> next; We now taking into Our Princely Consideration, the present Diffi<g ref="char:EOLhyphen"/>culties in the Passage unto Our said City of <hi>Oxford,</hi> and the Dangers, that those Members of both Houses may thereby incurre, if they should reassemble at the said time and place, before the severall Counties about <hi>Oxford</hi> be cleared from the Rebells Forces, that infest those, and other Parts, through which the said Members must necessarily passe, and the Incertainty of Our Returne to <hi>Oxford,</hi> so soon as the time appointed; And We most earnestly desiring, as soon as with Conveniency may be, to be assisted with the Councell, and Advice of the said Members of both Our Houses of Parliament, and to have them Witnesses of all Our Actions, and Proceedings, in order to the Peace of this Our King<g ref="char:EOLhyphen"/>dome, and the good of Our People; have resolved to respite the meeting of the said Assembly, till such time as it may consist with the present Condition of Our Affaires, and be convenient for the Members Accesse to Us. And to that end, We doe hereby Declare, Our Will and Pleasure to be, That the meeting of the said Assembly at <hi>Oxford,</hi> be prorogued, from the said 8<seg rend="sup">th</seg> day of <hi>October</hi> next, untill the 9<seg rend="sup">th</seg> day of <hi>November</hi> next. And We doe hereby. Will, and Require all the Members of both Houses, mentioned in Our said Proclamation to Assemble themselves together at Our City of <hi>Oxford,</hi> upon the said 9<seg rend="sup">th</seg> day of <hi>November,</hi> next ensuing the date hereof, where all possible Care shall be taken, for their free Passage and Accommodation, and where (We being debarred by force of Armes, to receive their Advice at Our City of <hi>Westminster</hi>) all Our good Subjects shall behold Our constant Care, and Resolution, to prepare, promote, and perfect, by the concurrent Councells of the said Members of both Houses of Parliament, all meanes consisting with piety towards Almighty God, and Justice to Our Selves and them, which may best prevent that generall Desolation which will inevitably follow the continuance of this Warre, and to endeavour to remove all Impediments, that obstruct the way to a happy Peace to this Nation, and Our other Kingdomes, which out of Our Princely, and Fatherly Compassion of Our Peoples sufferings, and Calamities, under the inevitable pressures of a Civill Warre, and Forreigne Invasion, We doe, and ever shall, preferre before all earthly Blessings that may befall Us, and dayly implore the God of Peace to vouchsafe it Us, and Our People. And Our Pleasure is, That this Our Proclamation be Read in all Churches, and Chappells within this Our Kingdome, and Dominion of <hi>Wales. Given at Our Court at</hi> EXCESTER, <hi>the Twenty first day of</hi> September, <hi>in the Twentieth yeare of Our Reigne.</hi> 1644.</p>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed at</hi> Oxford, <hi>by</hi> Leonard Lichfield, <hi>Printer to the Ʋniversity.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
